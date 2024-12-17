@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Seokwon Song"
   avatar           : "/assets/images/seokwon_logo.png"
-  bio              : "I am an **amazing** person."
+  bio              : "M.S. Student @ SNUVL"
   location         : "Seoul, Korea"
   email            :
   links:
@@ -314,7 +314,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "/_pages/publications.md"
       type: posts
     values:
       layout: single
