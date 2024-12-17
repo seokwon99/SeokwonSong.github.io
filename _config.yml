@@ -114,10 +114,10 @@ analytics:
 # Site Author
 author:
   name             : "Seokwon Song"
-  avatar           : "assets/images/seokwon_logo.png"
+  avatar           : # "assets/images/seokwon_logo.png"
   bio              : "I am an **amazing** person."
   location         : "Seoul, Korea"
-  email            :
+  email            : "seokwon.song@vision.snu.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/seokwon99"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
