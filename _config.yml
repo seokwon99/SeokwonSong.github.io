@@ -325,8 +325,8 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "_pages"
-      type: pages
+      path: "_publications"
+      type: publications
     values:
       layout: single
       author_profile: true
