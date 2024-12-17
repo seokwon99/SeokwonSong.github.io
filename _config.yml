@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Seokwon Song"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/seokwon_logo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Seoul, Korea"
   email            :
