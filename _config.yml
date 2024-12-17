@@ -314,7 +314,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "/_pages/publications.md"
+      path: ""
       type: posts
     values:
       layout: single
@@ -323,3 +323,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _publications
+  - scope:
+      path: "_publications"
+      type: publication
+    values:
+      layout: single
+      author_profile: true
