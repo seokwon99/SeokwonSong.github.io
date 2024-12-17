@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Seokwon Song"
-  avatar           : "/assets/images/seokwon_logo.jpg"
+  avatar           : "/assets/images/seokwon_logo.png"
   bio              : "I am an **amazing** person."
   location         : "Seoul, Korea"
   email            :
